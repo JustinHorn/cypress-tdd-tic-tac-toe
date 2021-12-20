@@ -11,6 +11,10 @@
 # production
 /build
 
+cypress/integration/*
+
+!cypress/integration/app.spec.js
+
 # misc
 .DS_Store
 .env.local
