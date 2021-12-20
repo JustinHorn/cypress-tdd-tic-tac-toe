@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cypress-tdd-tic-tac-toe/static/css/main.5530ea8f.css",
+    "main.js": "/cypress-tdd-tic-tac-toe/static/js/main.f91d62ee.js",
+    "index.html": "/cypress-tdd-tic-tac-toe/index.html",
+    "main.5530ea8f.css.map": "/cypress-tdd-tic-tac-toe/static/css/main.5530ea8f.css.map",
+    "main.f91d62ee.js.map": "/cypress-tdd-tic-tac-toe/static/js/main.f91d62ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5530ea8f.css",
+    "static/js/main.f91d62ee.js"
+  ]
+}
